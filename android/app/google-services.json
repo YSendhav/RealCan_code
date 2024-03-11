@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073967982990",
+    "project_id": "realcan-e33b1",
+    "storage_bucket": "realcan-e33b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073967982990:android:3efac746cedf7db2fd9cdf",
+        "android_client_info": {
+          "package_name": "com.realcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073967982990-iqt4l52pr85401a4ioguuqkasfflf5cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realcan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1073967982990-m788pniv3095dj3a2ar7jrrkhig4j6jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realcan",
+            "certificate_hash": "6e54f48aa08fc66fa1e5742474591734db086fec"
+          }
+        },
+        {
+          "client_id": "1073967982990-ffiq0cig4qproujp7fjg1p87idru6lj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3r2NHPDHzmPZTUiCkv5dAn8srOopxj7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073967982990-ffiq0cig4qproujp7fjg1p87idru6lj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

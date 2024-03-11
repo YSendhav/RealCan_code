@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1073967982990-ffiq0cig4qproujp7fjg1p87idru6lj4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1073967982990</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3r2NHPDHzmPZTUiCkv5dAn8srOopxj7k</string>
+    <string name="google_app_id" translatable="false">1:1073967982990:android:3efac746cedf7db2fd9cdf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3r2NHPDHzmPZTUiCkv5dAn8srOopxj7k</string>
+    <string name="google_storage_bucket" translatable="false">realcan-e33b1.appspot.com</string>
+    <string name="project_id" translatable="false">realcan-e33b1</string>
+</resources>

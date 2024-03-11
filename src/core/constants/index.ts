@@ -1,0 +1,36 @@
+import colors from "./colors";
+import fonts from "./fonts";
+import radius from "./radius";
+import spaces from "./spaces";
+import global from "./strings";
+
+const CHECK_NETWORK_TIMEOUT = 30000
+const CHECK_NETWORK_INTERVAL = 10000
+const WAIT_FOR_RESPONSE_TIMEOUT = 120000 // 2 minutes
+
+const FLASH_MESSAGE_ANIMATION_DURATION = 5000
+const MAX_BADGE_VALUE = 99
+const MIN_SEARCH_KEYWOARD_LENGTH = 2
+
+const TAB_BAR_HEIGHT = 60
+const SEARCH_INPUT_HEIGHT = 45
+const MAX_SEARCH_PLACEHOLDER_TEXT_LENGTH_IOS = 27
+const MAX_SEARCH_PLACEHOLDER_TEXT_LENGTH_ANDROID = 35
+
+export {
+    colors,
+    fonts,
+    radius,
+    spaces,
+    global,
+    CHECK_NETWORK_TIMEOUT,
+    CHECK_NETWORK_INTERVAL,
+    WAIT_FOR_RESPONSE_TIMEOUT,
+    FLASH_MESSAGE_ANIMATION_DURATION,
+    TAB_BAR_HEIGHT,
+    MAX_BADGE_VALUE,
+    SEARCH_INPUT_HEIGHT,
+    MIN_SEARCH_KEYWOARD_LENGTH,
+    MAX_SEARCH_PLACEHOLDER_TEXT_LENGTH_IOS,
+    MAX_SEARCH_PLACEHOLDER_TEXT_LENGTH_ANDROID
+}
